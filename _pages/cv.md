@@ -20,11 +20,11 @@ redirect_from:
   * Mentor: [Chong Luo](https://www.microsoft.com/en-us/research/people/cluo/)
   * Research Projects:
     * Text-based speech editing.
-    * Unsupervised Modal-agnostic Content-style decomposition.
+    * Unsupervised modal-agnostic content-style decomposition.
     * General-purposed speech representation learning.
     * ASR-friendly speech enhancement.
   * Engineering Project:
-    * Real-time speaker number estimator for Microsoft PowerPoint
+    * Real-time speaker number estimator for Microsoft PowerPoint.
 
 * Aug. 2018 - Aug. 2019: **Microsoft Research Asia (MSRA)**
   * Research Intern at *Internet Media (IM)* Group
@@ -33,10 +33,10 @@ redirect_from:
     * Monaural speech enhancement.
     * Exploratory attempt on Dense Video Captioning.
   * Engineering projects:
-    * Transfer the proposed speech enhancement algorithm *PHASEN* into product.
+    * Transfer the proposed speech enhancement method *PHASEN* into product.
     * Develop a mobile app that generates couplets from photos.
   
-## <i class="fa fa-ft fa-pencilsquareo"></i>&nbsp;&nbsp;Research Topics
+## <i class="fa fa-ft fa-pencil-square-o"></i>&nbsp;&nbsp;Research Topics
 * Speech editing
 * Speech enhancement
 * Representation learning
