@@ -36,7 +36,7 @@ redirect_from:
     * Transfer the proposed speech enhancement method *PHASEN* into product.
     * Develop a mobile app that generates couplets from photos.
   
-## <i class="fa fa-ft fa-pencil-square-o"></i>&nbsp;&nbsp;Research Topics
+## <i class="fa fa-ft fa-pen-nib"></i>&nbsp;&nbsp;Research Topics
 * Speech editing
 * Speech enhancement
 * Representation learning
@@ -47,7 +47,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## <i class="fa fa-ft fa-hearto"></i>&nbsp;&nbsp;Hobbies
+## <i class="fa fa-ft fa-heart-o"></i>&nbsp;&nbsp;Hobbies
 * Bass, guitar, clarinet, music composing.
 * Board game
 * Jogging
