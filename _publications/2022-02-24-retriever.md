@@ -6,4 +6,4 @@ excerpt: '**Dacheng Yin**, Xuanchi Ren, Chong Luo, Yuwang Wang, Zhiwei Xiong, We
 date: 2022-02-24
 venue: 'International Conference on Learning Representations'
 ---
-[Download paper here](https://arxiv.org/pdf/2202.12307)
+\[[Paper](https://arxiv.org/pdf/2202.12307)\] \[[demo](https://ydcustc.github.io/retriever-demo/)\] \[[code](https://github.com/xrenaa/Retriever)\]
