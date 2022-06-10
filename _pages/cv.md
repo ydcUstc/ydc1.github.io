@@ -47,7 +47,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## <i class="fa fa-ft fa-heart-o"></i>&nbsp;&nbsp;Hobbies
+## <i class="fa fa-ft fa-heart"></i>&nbsp;&nbsp;Hobbies
 * Bass, guitar, clarinet, music composing.
 * Board game
 * Jogging
