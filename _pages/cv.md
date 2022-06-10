@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum vitae"
+title: <i class="fa fa-ft fa-id-card"></i>&nbsp;&nbsp;Curriculum Vitae
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,39 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Electronic Information Engineering, USTC, 2019
-* Ph.D student in Information and Communication Engineering, USTC, 2024 (expected) 
+## <i class="fa fa-ft fa-university"></i>&nbsp;&nbsp;Education
 
-Experience
-======
-* Jun. 2020 - Present: Research Intern at Microsoft Research Asia (MSRA)
-  * Text-based speech editing.
-  * Unsupervised Modal-agnostic Content-style decomposition.
-  * General-purposed speech representation learning.
-  * ASR-friendly speech enhancement.
+* B.S. in Electronic Information Engineering, USTC, 2015.9 - 2019.7
+* Ph.D student in Information and Communication Engineering, USTC, 2019.9 - 2024.7 (expected) 
 
-* Aug. 2018 - Aug. 2019: Research Intern at Microsoft Research Asia (MSRA)
-  * Conduct research & engineering project on monaural speech enhancement.
-  * Exploratory attempt on Dense Video Captioning.
-  * Develop a mobile app that generates couplet from photos.
+## <i class="fa fa-ft fa-users"></i>&nbsp;&nbsp;Experience
+* Jun. 2020 - Present: **Microsoft Research Asia (MSRA)**
+  * Research Intern at *Internet Media (IM)* Group
+  * Mentor: [Chong Luo](https://www.microsoft.com/en-us/research/people/cluo/)
+  * Research Projects:
+    * Text-based speech editing.
+    * Unsupervised Modal-agnostic Content-style decomposition.
+    * General-purposed speech representation learning.
+    * ASR-friendly speech enhancement.
+  * Engineering Project:
+    * Real-time speaker number estimator for Microsoft PowerPoint
+
+* Aug. 2018 - Aug. 2019: **Microsoft Research Asia (MSRA)**
+  * Research Intern at *Internet Media (IM)* Group
+  * Mentor: [Chong Luo](https://www.microsoft.com/en-us/research/people/cluo/)
+  * Research Projects:
+    * Monaural speech enhancement.
+    * Exploratory attempt on Dense Video Captioning.
+  * Engineering projects:
+    * Transfer the proposed speech enhancement algorithm *PHASEN* into product.
+    * Develop a mobile app that generates couplets from photos.
   
-Research Area
-======
+## <i class="fa fa-ft fa-pencilsquareo"></i>&nbsp;&nbsp;Research Topics
 * Speech editing
 * Speech enhancement
 * Representation learning
 * Content-style decomposition
 
-Publications
-======
+## <i class="fa fa-ft fa-book"></i>&nbsp;&nbsp;Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Hobbies
-======
+## <i class="fa fa-ft fa-hearto"></i>&nbsp;&nbsp;Hobbies
 * Bass, guitar, clarinet, music composing.
 * Board game
 * Jogging
