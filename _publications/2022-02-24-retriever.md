@@ -8,7 +8,7 @@ venue: 'International Conference on Learning Representations'
 ---
 \[[Paper](https://arxiv.org/pdf/2202.12307)\] \[[demo](https://ydcustc.github.io/retriever-demo/)\] \[[code](https://github.com/xrenaa/Retriever)\]
 
-![Architecture](/images/retriever.png)
+![Architecture](/files/retriever.png)
 
 This paper addresses the unsupervised learning of content-style decomposed representation. We first give a definition of style and then model the content-style representation as a token-level bipartite graph. An unsupervised framework, named
 Retriever, is proposed to learn such representations. First, a cross-attention
