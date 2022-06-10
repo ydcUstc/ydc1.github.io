@@ -36,7 +36,7 @@ redirect_from:
     * Transfer the proposed speech enhancement method *PHASEN* into product.
     * Develop a mobile app that generates couplets from photos.
 
-## <i class="fa fa-ft fa-lightbulb"></i>&nbsp;&nbsp;Research Topics
+## <i class="fa fa-ft fa-lightbulb"></i>&nbsp;&nbsp;Research Interest
 **Speech editing**: Focusing on achieving free manipulation of speech signals in a computational approach.
   
 ## <i class="fa fa-ft fa-pen-nib"></i>&nbsp;&nbsp;Research Topics
