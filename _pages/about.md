@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <i class="fa fa-ft fa-id-card"></i>&nbsp;&nbsp;"Dacheng Yin"
+title: <i class="fa fa-ft fa-id-card"></i>&nbsp;&nbsp;About me
 excerpt: "About me"
 author_profile: true
 redirect_from: 
