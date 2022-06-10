@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal webpage"
+title: "Dacheng Yin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronic Information Engineering, USTC, 2019
+* Ph.D student in Information and Communication Engineering, USTC, 2024 (expected) 
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun. 2020 - Present: Research Intern at Microsoft Research Asia (MSRA)
+  * Text-based speech editing.
+  * Unsupervised Modal-agnostic Content-style decomposition.
+  * General-purposed speech representation learning.
+  * ASR-friendly speech enhancement.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug. 2018 - Aug. 2019: Research Intern at Microsoft Research Asia (MSRA)
+  * Conduct research & engineering project on monaural speech enhancement.
+  * Exploratory attempt on Dense Video Captioning.
+  * Develop a mobile app that generates couplet from photos.
   
-Skills
+Research Area
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Speech editing
+* Speech enhancement
+* Representation learning
+* Content-style decomposition
 
 Publications
 ======
@@ -42,18 +40,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Hobbies
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Bass, guitar, clarinet, music composing.
+* Board game
+* Jogging
