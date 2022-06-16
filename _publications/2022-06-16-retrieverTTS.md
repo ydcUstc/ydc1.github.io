@@ -1,5 +1,5 @@
 ---
-title: "Retriever: Learning Content-Style Representation as a Token-Level Bipartite Graph"
+title: "RetrieverTTS: Modeling Decomposed Factors for Text-Based Speech Insertion"
 collection: publications
 permalink: /publication/2022-06-16-retrieverTTS
 excerpt: '**Dacheng Yin**, Chuanxin Tang, Yanqing Liu, Xiaoqiang Wang, Zhiyuan Zhao, Yucheng Zhao, Zhiwei Xiong, Sheng Zhao, Chong Luo.'
