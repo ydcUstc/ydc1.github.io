@@ -8,7 +8,7 @@ venue: 'InterSpeech'
 ---
 \[[Paper]()\] \[[demo](https://ydcustc.github.io/retrieverTTS-demo/)\] \[[code]()\]
 
-![Architecture](/files/retrieverTTS.png)
+![Architecture](/images/retrieverTTS.png)
 
 This paper proposes a new paradigm for the text-based speech
 insertion task that enables long insertion and full sentence generation. It is achieved by explicitly decomposing local and
