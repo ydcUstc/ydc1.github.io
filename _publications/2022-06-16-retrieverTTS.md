@@ -6,7 +6,7 @@ excerpt: '**Dacheng Yin**, Chuanxin Tang, Yanqing Liu, Xiaoqiang Wang, Zhiyuan Z
 date: 2022-06-16
 venue: 'InterSpeech'
 ---
-\[[Paper]()\] \[[demo](https://ydcustc.github.io/retrieverTTS-demo/)\] \[[code]()\]
+\[[Paper](https://arxiv.org/pdf/2206.13865.pdf)\] \[[demo](https://ydcustc.github.io/retrieverTTS-demo/)\] \[[code]()\]
 
 ![Architecture](/images/retrieverTTS.png)
 
